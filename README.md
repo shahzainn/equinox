@@ -1,0 +1,2 @@
+# equinox
+Lightweight scientific calculator.
