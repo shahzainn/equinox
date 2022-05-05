@@ -1,1 +1,0 @@
-print("eBinary is now enabled and ready for use!")
